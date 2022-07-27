@@ -43,7 +43,7 @@ global.author = 'CHATHUMINA' // Sticker Autor name
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-//YOUR LOVELY BOT ELISSA 💘💘💘 
+//YOUR LOVELY BOT ELISA 💘💘💘 
 
 DINU QUEEN LOVELY ❤❤❤ 
 POWERED BY *SL CHATHUMINA* 🇯🇵
